@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/APMobile/APMobile.iml" filepath="$PROJECT_DIR$/APMobile/APMobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TeamFourMobileAutomation.iml" filepath="$PROJECT_DIR$/TeamFourMobileAutomation.iml" />
+    </modules>
+  </component>
+</project>

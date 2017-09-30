@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Android test suite on Android Phone">
+
+    <parameter name="OS" value="Android"/>
+    <parameter name="appType" value="Phone"/>
+    <parameter name="deviceType" value="RealDevice"/>
+    <parameter name="deviceName" value="Samsung"/>
+    <parameter name="version" value="5.1.1"/>
+    <parameter name="moduleName" value="APMobile"/>
+    <parameter name="appName" value="APMobile_4.4.3.apk"/>
+
+    <test name="Click on top news" preserve-order="true">
+        <classes>
+            <class name="testpageobjects.TestFeatures"/>
+        </classes>
+    </test>
+</suite>
